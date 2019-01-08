@@ -1,0 +1,1606 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servers>
+<server>
+    <id>abysstream</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/abysstream.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>adfly</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/adfly.py</update_url>
+    <active>true</active>
+    <version>2</version>
+    <date>10/02/2017</date>
+    <changes>Update</changes>
+</server>
+
+<server>
+    <id>adnstream</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/adnstream.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>akstream</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/akstream.py</update_url>
+    <active>true</active>
+    <version>2</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>alldebrid</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/alldebrid.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>allmyvideos</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/allmyvideos.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>ay8ou8ohth</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/ay8ou8ohth.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>05/03/2017</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>backin</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/backin.py</update_url>
+    <active>true</active>
+    <version>2</version>
+    <date>30/04/2017</date>
+    <changes>Update</changes>
+</server>
+
+<server>
+    <id>bc</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/bc.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>05/03/2017</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>bitshare</id>
+    <update_url>hhttps://raw.githubusercontent.com/its07/ch/master/ser/bitshare.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>bleachanimemanga</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/bleachanimemanga.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>05/05/2017</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>bliptv</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/bliptv.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>cineraculo</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/cineraculo.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>clipwatching</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/clipwatching.py</update_url>
+    <active>true</active>
+    <version>04</version>
+    <date>25/08/2018</date>
+    <changes>Update and Temporary Fix</changes>
+</server>
+
+<server>
+    <id>cloudifer</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/cloudifer.py</update_url>
+    <active>true</active>
+    <version>3</version>
+    <date>11/05/2017</date>
+    <changes>Update</changes>
+</server>
+
+<server>
+    <id>cloudzer</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/cloudzer.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>cloudzilla</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/cloudzilla.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>cramit</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/cramit.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>crunchyroll</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/crunchyroll.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>05/03/2017</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>cumlouder</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/cumlouder.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>dailymotion</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/dailymotion.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>depositfiles</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/depositfiles.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>directo</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/directo.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>divxstage</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/divxstage.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>documentary</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/documentary.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>exashare</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/exashare.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>extabit</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/extabit.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>facebook</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/facebook.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>fakingstv</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/fakingstv.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>fastvideo</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/fastvideo.py</update_url>
+    <active>true</active>
+    <version>3</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>fiberupload</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/fiberupload.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>filebox</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/filebox.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>filefactory</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/filefactory.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>fileflyer</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/fileflyer.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione </changes>
+</server>
+
+<server>
+    <id>filejungle</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/filejungle.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>filenium</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/filenium.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>filereactor</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/filereactor.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>fileserve</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/fileserve.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>filesmonster</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/filesmonster.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>filesonic</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/filesonic.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>firedrive</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/firedrive.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>flashx</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/flashx.py</update_url>
+    <active>true</active>
+    <version>25</version>
+    <date>20/10/2018</date>
+    <changes>Temporary Fix</changes>
+</server>
+
+<server>
+    <id>fooget</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/fooget.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>fourshared</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/fourshared.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>freakshare</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/freakshare.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>gamovideo</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/gamovideo.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>gigasize</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/gigasize.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>googledrive</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/googledrive.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>googlevideo</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/googlevideo.py</update_url>
+    <active>true</active>
+    <version>2</version>
+    <date>04/07/2017</date>
+    <changes>Update</changes>
+</server>
+
+<server>
+    <id>hdload</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/hdload.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>hdplay</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/hdplay.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>hotfile</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/hotfile.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>httptools</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/httptools.py</update_url>
+    <active>true</active>
+    <version>2</version>
+    <date>10/03/2017</date>
+    <changes>Update 1</changes>
+</server>
+
+<server>
+    <id>hugefiles</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/hugefiles.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>hulkshare</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/hulkshare.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>jumbofiles</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/jumbofiles.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>junkyvideo</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/junkyvideo.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>justintv</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/justintv.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>letitbit</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/letitbit.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>letwatch</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/letwatch.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>linkbucks</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/linkbucks.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>longurl</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/longurl.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>lumfile</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/lumfile.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>magnovideo</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/magnovideo.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>mailru</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/mailru.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>mediafire</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/mediafire.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>mega</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/servers/mega.py</update_url>
+    <active>true</active>
+    <version>3</version>
+    <date>27/06/2017</date>
+    <changes>Update</changes>
+</server>
+
+<server>
+    <id>megadrive</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/megadrive.py</update_url>
+    <active>true</active>
+    <version>07</version>
+    <date>11/09/2018</date>
+    <changes>Temporary Fix</changes>
+</server>
+
+<server>
+    <id>megahd</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/megahd.py</update_url>
+    <active>true</active>
+    <version>2</version>
+    <date>25/03/2017</date>
+    <changes>Update</changes>
+</server>
+
+<server>
+    <id>meuvideos</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/meuvideos.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>modovideo</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/modovideo.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>moevideos</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/moevideos.py</update_url>
+    <active>true</active>
+    <version>2</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>movreel</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/movreel.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>movshare</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/movshare.py</update_url>
+    <active>true</active>
+    <version>2</version>
+    <date>15/03/2017</date>
+    <changes>Update</changes>
+</server>
+
+<server>
+    <id>netload</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/netload.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>netutv</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/netutv.py</update_url>
+    <active>true</active>
+    <version>2</version>
+    <date>12/11/2017</date>
+    <changes>Update</changes>
+</server>
+
+<server>
+    <id>nosvideo</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/nosvideo.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>novamov</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/novamov.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>nowdownload</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/nowdownload.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>nowvideo</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/nowvideo.py</update_url>
+    <active>true</active>
+    <version>05</version>
+    <date>12/08/2018</date>
+    <changes>Update and Temporary Fix</changes>
+</server>
+
+<server>
+    <id>nubestream</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/nubestream.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>oboom</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/oboom.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>okru</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/okru.py</update_url>
+    <active>true</active>
+    <version>04</version>
+    <date>11/05/2017</date>
+    <changes>Update</changes>
+</server>
+
+<server>
+    <id>one80upload</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/one80upload.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>onefichier</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/onefichier.py</update_url>
+    <active>true</active>
+    <version>3</version>
+    <date>18/03/2017</date>
+    <changes>Update</changes>
+</server>
+
+<server>
+    <id>openload</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/openload.py</update_url>
+    <active>true</active>
+    <version>43</version>
+    <date>18/04/2018</date>
+    <changes>Update and Fix</changes>
+</server>
+
+<server>
+    <id>pyaes</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/pyaes.py</update_url>
+    <active>true</active>
+    <version>2</version>
+    <date>25/03/2016</date>
+    <changes>Prima versione in "servers"</changes>
+</server>
+
+<server>
+    <id>playedto</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/playedto.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>playwatch</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/playwatch.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>22/09/2017</date>
+    <changes>Prima versione</changes>
+</server>
+
+
+<server>
+    <id>powvideo</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/powvideo.py</update_url>
+    <active>true</active>
+    <version>2</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>publicvideohost</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/publicvideohost.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>putlocker</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/putlocker.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>putstream</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/putstream.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>rapidgator</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/rapidgator.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>rapidshare</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/rapidshare.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>rapidtube</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/rapidtube.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>rapidvideo</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/rapidvideo.py</update_url>
+    <active>true</active>
+    <version>06</version>
+    <date>08/06/2018</date>
+    <changes>Update</changes>
+</server>
+
+<server>
+    <id>rapidvideocom</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/rapidvideocom.py</update_url>
+    <active>true</active>
+    <version>5</version>
+    <date>03/06/2017</date>
+    <changes>Update</changes>
+</server>
+
+<server>
+    <id>raptu</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/raptu.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>02/07/2017</date>
+    <changes>First Release</changes>
+</server>
+
+<server>
+    <id>realdebrid</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/realdebrid.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>realvid</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/realvid.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>rocvideo</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/rocvideo.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>royalvids</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/royalvids.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>rutube</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/rutube.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>safelinking</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/safelinking.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>sendvid</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/sendvid.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>servertools</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/servertools.py</update_url>
+    <active>true</active>
+    <version>4</version>
+    <date>23/09/2017</date>
+    <changes>Update</changes>
+</server>
+
+<server>
+    <id>shareflare</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/shareflare.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>sharpfile</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/sharpfile.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>sockshare</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/sockshare.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>speedvid</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/speedvid.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>speedplay</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/speedplay.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>05/03/2017</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>speedvideo</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/speedvideo.py</update_url>
+    <active>true</active>
+    <version>4</version>
+    <date>18/09/2017</date>
+    <changes>Update</changes>
+</server>
+
+<server>
+    <id>spruto</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/spruto.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>stagero</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/stagero.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>stagevu</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/stagevu.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>streamable</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/streamable.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>streamango</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/streamango.py</update_url>
+    <active>true</active>
+    <version>3</version>
+    <date>20/03/2018</date>
+    <changes>Update</changes>
+</server>
+
+<server>
+    <id>streamcherry</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/streamcherry.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>12/11/2017</date>
+    <changes>First release</changes>
+</server>
+
+<server>
+    <id>streamcloud</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/streamcloud.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>streaminto</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/streaminto.py</update_url>
+    <active>true</active>
+    <version>4</version>
+    <date>27/06/2017</date>
+    <changes>Update</changes>
+</server>
+
+<server>
+    <id>thevideome</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/thevideome.py</update_url>
+    <active>true</active>
+    <version>06</version>
+    <date>12/08/2018</date>
+    <changes>Update and Temporary Fix</changes>
+</server>
+
+<server>
+    <id>torrent</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/torrent.py</update_url>
+    <active>false</active>
+    <version>2</version>
+    <date>22/06/2017</date>
+    <changes>Disabled</changes>
+</server>
+
+<server>
+    <id>tumitv</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/tumitv.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>tunepk</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/tunepk.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>turbobit</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/turbobit.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>tutv</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/tutv.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>twitvid</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/twitvid.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>ultramegabit</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/ultramegabit.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>uploadedto</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/uploadedto.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>uploading</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/uploading.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>uploadstation</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/uploadstation.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>uploaz</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/uploaz.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>uptobox</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/uptobox.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>userporn</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/userporn.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>v4y</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/v4y.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>veehd</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/veehd.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>veevr</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/veevr.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>veoh</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/veoh.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>vidbull</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/vidbull.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>vidbux</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/vidbux.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>vidcloud</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/vidcloud.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>19/12/2018</date>
+    <changes>First release</changes>
+</server>
+
+<server>
+    <id>video4you</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/video4you.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>videobam</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/videobam.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>videomega</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/videomega.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>videopremium</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/videopremium.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>videostoring</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/videostoring.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+        <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>videott</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/videott.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>videoweed</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/videoweed.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>videowood</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/videowood.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>videozed</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/videozed.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>videozer</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/videozer.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>vidgg</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/vidgg.py</update_url>
+    <active>true</active>
+    <version>2</version>
+    <date>23/01/2017</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>vidlox</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/vidlox.py</update_url>
+    <active>true</active>
+    <version>05</version>
+    <date>29/10/2018</date>
+    <changes>Temporary Fix</changes>
+</server>
+
+<server>
+    <id>vidoza</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/vidoza.py</update_url>
+    <active>true</active>
+    <version>04</version>
+    <date>30/07/2018</date>
+    <changes>Update</changes>
+</server>
+
+<server>
+    <id>vidhog</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/vidhog.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>vidspot</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/vidspot.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>vidtome</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/vidtome.py</update_url>
+    <active>true</active>
+    <version>3</version>
+    <date>04/07/2017</date>
+    <changes>Update</changes>
+</server>
+
+<server>
+    <id>vidxden</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/vidxden.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>vidxtreme</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/vidxtreme.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>vidzi</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/vidzi.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>vimeo</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/vimeo.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>vimpleru</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/vimpleru.py</update_url>
+    <active>true</active>
+    <version>2</version>
+    <date>17/11/2016</date>
+    <changes>Update</changes>
+</server>
+
+<server>
+    <id>vk</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/servers/vk.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>vkpass</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/vkpass.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>vodlocker</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/vodlocker.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>vureel</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/vureel.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>watchers</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/watchers.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>05/06/2017</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>watchfreeinhd</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/watchfreeinhd.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>wstream</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/wstream.py</update_url>
+    <active>true</active>
+    <version>12</version>
+    <date>20/10/2018</date>
+    <changes>Temporary Fix</changes>
+</server>
+    
+<server>
+    <id>xmltoplaylist</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/xmltoplaylist.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>xvideos</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/xvideos.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>yahoo</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/yahoo.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>youtube</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/youtube.py</update_url>
+    <active>true</active>
+    <version>02</version>
+    <date>18/05/2018</date>
+    <changes>Prima versione - Update</changes>
+</server>
+
+<server>
+    <id>youwatch</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/youwatch.py</update_url>
+    <active>true</active>
+    <version>3</version>
+    <date>16/05/2017</date>
+    <changes>Update</changes>
+</server>
+
+<server>
+    <id>zinwa</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/zinwa.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>zippyshare</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/zippyshare.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>zshare</id>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/ser/zshare.py</update_url>
+    <active>true</active>
+    <version>1</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+    
+</servers>

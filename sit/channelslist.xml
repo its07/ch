@@ -1,0 +1,2684 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+	
+<channel>
+    <id>altadefinizione01_biz</id>
+    <name>AltaDefinizione01_biz</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/altadefinizione01_biz.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>09</version>
+    <adult>false</adult>
+    <date>20/12/2018</date>
+    <changes>Update and Fix</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>vos</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>altadefinizione01_video</id>
+    <name>AltaDefinizione01_video</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/altadefinizione01_video.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>08</version>
+    <adult>false</adult>
+    <date>16/12/2018</date>
+    <changes>Temporary Disabled</changes>
+    <categories>
+        <category>Top Channel</category>
+        <category>movie</category>
+        <category>vos</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>altadefinizione01_zone</id>
+    <name>AltaDefinizione01_zone</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/altadefinizione01_zone.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>15</version>
+    <adult>false</adult>
+    <date>06/01/2019</date>
+    <changes>Update and Fix</changes>
+    <categories>
+        <category>movie</category>
+        <category>vos</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>altadefinizione_bid</id>
+    <name>AltaDefinizione bid</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/altadefinizione_bid.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>02</version>
+    <adult>false</adult>
+    <date>06/01/2019</date>
+    <changes>Enabled in channelslist</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+        <category>vos</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>altadefinizione_pink</id>
+    <name>altadefinizione_pink</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/altadefinizione_pink.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>10</version>
+    <adult>false</adult>
+    <date>21/12/2018</date>
+    <changes>Disabled - delete host</changes>
+    <categories>
+        <category>movie</category>
+        <category>anime</category>
+        <category>vos</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>altadefinizione_due</id>
+    <name>AltaDefinizione_due</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/altadefinizione_due.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>07</version>
+    <adult>false</adult>
+    <date>16/12/2018</date>
+    <changes>Temporary - Enabled</changes>
+    <categories>
+        <category>movie</category>
+        <category>vos</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>altadefinizione_hd</id>
+    <name>AltaDefinizione HD</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/altadefinizione_hd</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>05</version>
+    <adult>false</adult>
+    <date>30/11/2018</date>
+    <changes>Ebabled in Channelslist</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+    
+<channel>
+    <id>animeforce</id>
+    <name>AnimeForce</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/animeforce.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>13</version>
+    <adult>false</adult>
+    <date>22/11/2018</date>
+    <changes>Temporary Fix</changes>
+    <categories>
+        <category>anime</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>animehdita</id>
+    <name>animehdita</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/animehdita.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>04</version>
+    <adult>false</adult>
+    <date>03/12/2018</date>
+    <changes>Temporary Fix</changes>
+    <categories>
+        <category>anime</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>animesenzalimiti</id>
+    <name>AnimeSenzaLimiti</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/animesenzalimiti.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>08</version>
+    <adult>false</adult>
+    <date>24/08/2018</date>
+    <changes>Update and Fix</changes>
+    <categories>
+        <category>anime</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>animevision</id>
+    <name>Animevision</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/animevision.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>4</version>
+    <adult>false</adult>
+    <date>11/04/2018</date>
+    <changes>Update</changes>
+    <categories>
+        <category>anime</category>
+    </categories>
+</channel>
+
+	
+<channel>
+    <id>ayuda</id>
+    <name>Ayuda</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/channels/ayuda.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>3</version>
+    <adult>false</adult>
+    <date>05/02/2017</date>
+    <changes>Partial Fix</changes>
+</channel>
+
+
+<channel>
+    <id>biblioteca</id>
+    <name>Biblioteca</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/biblioteca.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>48</version>
+    <adult>false</adult>
+    <date>20/12/2018</date>
+    <changes>Fixed Global Search in the new plugin</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>vos</category>
+    </categories>
+</channel>
+
+	
+<channel>
+    <id>buscador</id>
+    <name>Buscador global</name>
+    <language>es</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/buscador.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>20</version>
+    <adult>false</adult>
+    <date>20/12/2018</date>
+    <changes>Minor Fix</changes>
+</channel>
+
+	
+<channel>
+    <id>casacinema</id>
+    <name>Casa-Cinema</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/casacinema.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>33</version>
+    <adult>false</adult>
+    <date>06/01/2019</date>
+    <changes>Update</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+        <category>vos</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>cb01_video</id>
+    <name>cb01_video</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/cb01_video.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>07</version>
+    <adult>false</adult>
+    <date>07/01/2019</date>
+    <changes>First Release - Update</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>cineblog01</id>
+    <name>Cineblog01</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/cineblog01.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>69</version>
+    <adult>false</adult>
+    <date>07/01/2019</date>
+    <changes>Update</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+        <category>vos</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>cineblogrun</id>
+    <name>CineBlog.run</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/cineblogrun.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>07</version>
+    <adult>false</adult>
+    <date>22/12/2018</date>
+    <changes>Update and Fix</changes>
+    <categories>
+        <category>movie</category>
+        <category>vos</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>cb01anime</id>
+    <name>Cb01anime</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/cb01anime.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>14</version>
+    <adult>false</adult>
+    <date>22/11/2018</date>
+    <changes>Update</changes>
+    <categories>
+        <category>anime</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>cinemalibero</id>
+    <name>Cinemalibero</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/cinemalibero.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>24</version>
+    <adult>false</adult>
+    <date>07/01/2019</date>
+    <changes>Fix Episodi</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>cucinarefacile</id>
+    <name>Cucinarefacile</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/cucinarefacile.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>09</version>
+    <adult>false</adult>
+    <date>14/09/2016</date>
+    <changes>Update</changes>
+    <categories>
+        <category>Documentaries</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>documentari_dsda</id>
+    <name>Documentari_DSDA</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/documentari_dsda.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>01</version>
+    <adult>false</adult>
+    <date>01/11/2018</date>
+    <changes>Temporary Fix - First Release</changes>
+    <categories>
+        <category>Documentaries</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>dreamsub</id>
+    <name>DreamSub</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/dreamsub.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>07</version>
+    <adult>false</adult>
+    <date>28/05/2018</date>
+    <changes>Update</changes>
+    <categories>
+        <category>anime</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>eurostreaming_video</id>
+    <name>eurostreaming_video</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/eurostreaming_video.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>05</version>
+    <adult>false</adult>
+    <date>22/11/2018</date>
+    <changes>Update</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+    </categories>
+</channel>
+	
+<channel>
+    <id>fastsubita</id>
+    <name>FastSubITA</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/fastsubita.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>07</version>
+    <adult>true</adult>
+    <date>06/01/2019</date>
+    <changes>Update and Temporary Fix</changes>
+	<categories>
+        <category>serie</category>
+        <category>vos</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>filmgratis</id>
+    <name>FilmGratis</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/filmgratis.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>05</version>
+    <adult>false</adult>
+    <date>17/12/2018</date>
+    <changes>First Release - Update</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>filmperevolvere</id>
+    <name>Filmperevolvere</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/filmperevolvere.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>10</version>
+    <adult>true</adult>
+    <date>11/04/2018</date>
+    <changes>Update</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>filmontv</id>
+    <name>Oggi in TV</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/filmontv.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>21</version>
+    <adult>false</adult>
+    <date>24/08/2018</date>
+    <changes>Update - Fix Global Search</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+        <category>vos</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>filmpertutti</id>
+    <name>Film per tutti</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/filmpertutti.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>29</version>
+    <adult>false</adult>
+    <date>06/01/2019</date>
+    <changes>Update and Fix</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+        <category>Top Channel</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>filmsenzalimiti</id>
+    <name>Film Senza Limiti</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/filmsenzalimiti.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>27</version>
+    <adult>false</adult>
+    <date>06/01/2019</date>
+    <changes>Temporary Fix</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+        <category>Top Channel</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>filmsenzalimiti_blue</id>
+    <name>Filmsenzalimiti_blue</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/filmsenzalimiti_blue.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>07</version>
+    <adult>false</adult>
+    <date>16/12/2018</date>
+    <changes>Temporary Disabled</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>filmsenzalimiti_info</id>
+    <name>Filmsenzalimiti_blue</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/filmsenzalimiti_info.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>12</version>
+    <adult>false</adult>
+    <date>21/12/2018</date>
+    <changes>Update - Temporry Fix</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>		
+    </categories>
+</channel>
+
+<channel>
+    <id>filmstreaming4</id>
+    <name>FilmStreaming4</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/filmstreaming4.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>03</version>
+    <adult>false</adult>
+    <date>06/01/2019</date>
+    <changes>First Release</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>filmstreaminghd</id>
+    <name>FilmStreamingHD</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/filmstreaminghd.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>01</version>
+    <adult>false</adult>
+    <date>04/05/2018</date>
+    <changes>First Release</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>Top Channels</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>filmstreaminggratis</id>
+    <name>FilmStreamingGratis</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/filmstreaminggratis.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>1</version>
+    <adult>false</adult>
+    <date>27/02/2017</date>
+    <changes>First Release</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+	
+<channel>
+    <id>filmstreamingita</id>
+    <name>FilmStreamingIta</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/filmstreamingita.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>05</version>
+    <adult>false</adult>
+    <date>03/11/2018</date>
+    <changes>Enabled</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>filmstreaming01</id>
+    <name>FilmStreaming01</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/filmstreaming01.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>01</version>
+    <adult>false</adult>
+    <date>07/11/2018</date>
+    <changes>First Release</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>guarda_serie</id>
+    <name>guarda_serie</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/guarda_serie.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>07</version>
+    <adult>false</adult>
+    <date>18/09/2018</date>
+    <changes>Update and Temporary Fix</changes>
+    <categories>
+        <category>serie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>guardaserie_click</id>
+    <name>GuardaSerie_click</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/guardaserie_click.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>03</version>
+    <adult>false</adult>
+    <date>30/11/2018</date>
+    <changes>Update (guardaserieonline)</changes>
+    <categories>
+        <category>serie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>guardafilm</id>
+    <name>GuardaFilm</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/guardafilm.py</update_url>
+    <active>false</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>05</version>
+    <adult>false</adult>
+    <date>13/09/2018</date>
+    <changes>Update</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>guardarefilm</id>
+    <name>GuardareFilm</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/guardarefilm.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>26</version>
+    <adult>false</adult>
+    <date>06/01/2019</date>
+    <changes>Update and Fix</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>guardogratis</id>
+    <name>GuardoGratis</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/guardogratis.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>04</version>
+    <adult>false</adult>
+    <date>12/09/2018</date>
+    <changes>Update and Temporary Fix</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>hdblog</id>
+    <name>HDBlog.it</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/hdblog.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>04</version>
+    <adult>false</adult>
+    <date>18/05/2018</date>
+    <changes>Update</changes>
+    <categories>
+        <category>Documentaries</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>ilgeniodellostreaming</id>
+    <name>IlGenioDelloStreaming</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/ilgeniodellostreaming.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>13</version>
+    <adult>false</adult>
+    <date>30/12/2018</date>
+    <changes>Temporary Fix</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+    </categories>
+</channel>    
+
+  <channel>
+    <id>ilgiramondo</id>
+    <name>IlGiramondo</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/ilgiramondo.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>4</version>
+    <adult>false</adult>
+    <date>11/04/2018</date>
+    <changes>First Release</changes>
+    <categories>
+        <category>Documentaries</category>
+    </categories>
+</channel>   
+    
+<channel>
+    <id>italiafilm</id>
+    <name>Italia-Film.co</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/italiafilm.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>37</version>
+    <adult>false</adult>
+    <date>06/01/2019</date>
+    <changes>Update and Partial Fix</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>Top channels</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>italiafilmvideohd</id>
+    <name>Italiafilmvideo HD</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/italiafilmvideohd.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>15</version>
+    <adult>false</adult>
+    <date>06/01/2019</date>
+    <changes>Update and Temporary Fix</changes>
+    <categories>
+        <category>movie</category>
+        <category>anime</category>
+        <category>vos</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>italiaserie_uno</id>
+    <name>italiaserie_uno</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/italiaserie_uno.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>03</version>
+    <adult>false</adult>
+    <date>25/10/2018</date>
+    <changes>Added to Channelslist</changes>
+    <categories>
+        <category>serie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>itastreaming</id>
+    <name>ItaStreaming</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/itastreaming.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>21</version>
+    <adult>false</adult>
+    <date>22/11/2018</date>
+    <changes>Update</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>libreria</id>
+    <name>Libreria</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/libreria.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>3</version>
+    <adult>false</adult>
+    <date>08/08/2016</date>
+    <changes>Prima versione di Pelisalacarta 4</changes>
+</channel>
+
+<channel>
+    <id>majintoon</id>
+    <name>Majintoon</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/majintoon.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>05</version>
+    <adult>false</adult>
+    <date>23/05/2018</date>
+    <changes>Update and Fix</changes>
+</channel>
+ 
+<channel>
+    <id>mondolunatico_hd</id>
+    <name>Mondo Lunatico HD</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/mondolunatico_hd.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>03</version>
+    <adult>false</adult>
+    <date>14/10/2018</date>
+    <changes>Partial Fix</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+ 
+<channel>
+    <id>netlover</id>
+    <name>netlover</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/netlover.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>04</version>
+    <adult>false</adult>
+    <date>06/01/2019</date>
+    <changes>Enabled in Channelslist</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+    </categories>
+</channel>	
+ 
+<channel>
+    <id>novedades</id>
+    <name>Novedades</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/novedades.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>10</version>
+    <adult>false</adult>
+    <date>13/09/2018</date>
+    <changes>Update</changes>
+</channel>
+
+<channel>
+    <id>piratestreaming</id>
+    <name>Pirate Streaming</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/piratestreaming.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>20</version>
+    <adult>false</adult>
+    <date>13/09/2018</date>
+    <changes>Partial Fix</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>ricettevideo</id>
+    <name>Ricettevideo</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/ricettevideo.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>04</version>
+    <adult>false</adult>
+    <date>14/09/2018</date>
+    <changes>small fix</changes>
+    <categories>
+        <category>Documentaries</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>saghe</id>
+    <name>Saghe</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/saghe.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>07</version>
+    <adult>false</adult>
+    <date>06/01/2019</date>
+    <changes>Changed API</changes>
+</channel>
+
+<channel>
+    <id>seriehd</id>
+    <name>Serie HD</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/seriehd.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>40</version>
+    <adult>false</adult>
+    <date>21/12/2018</date>
+    <changes>Update and Temporary Disabled</changes>
+    <categories>
+        <category>serie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>serietvonline</id>
+    <name>Serietvonline</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/serietvonline.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>13</version>
+    <adult>false</adult>
+    <date>07/01/2019</date>
+    <changes>Fix and Temporary Update</changes>
+    <categories>
+        <category>serie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>serietvsubita</id>
+    <name>Serie TV Sub ITA</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/serietvsubita.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>12</version>
+    <adult>false</adult>
+    <date>01/12/2018</date>
+    <changes>Update and Fix</changes>
+    <categories>
+        <category>serie</category>
+        <category>vos</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>serietvu</id>
+    <name>SerieTVU</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/serietvu.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>12</version>
+    <adult>false</adult>
+    <date>28/11/2018</date>
+    <changes>Update</changes>
+    <categories>
+        <category>serie</category>
+        <category>top channels</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>solostreaming_co</id>
+    <name>solostreaming_co</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/solostreaming_co.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>08</version>
+    <adult>false</adult>
+    <date>30/12/2018</date>
+    <changes>Update and Fix</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>streaminghd</id>
+    <name>StreamingHD</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/streaminghd.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>06</version>
+    <adult>false</adult>
+    <date>07/11/2018</date>
+    <changes>Temporary Fix</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>tantifilm</id>
+    <name>Tantifilm</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/tantifilm.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>25</version>
+    <adult>false</adult>
+    <date>23/12/2018</date>
+    <changes>Temporary Fix</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>tengourl</id>
+    <name>TengoUrL</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/tengourl.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>2</version>
+    <adult>false</adult>
+    <date>08/08/2016</date>
+    <changes>Update</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+        <category>vos</category>
+        <category>Documentaries</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>vedohd</id>
+    <name>VedoHD</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/vedohd.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>06</version>
+    <adult>false</adult>
+    <date>23/12/2018</date>
+    <changes>Update and Temporary Fix</changes>
+    <categories>
+        <category>movie</category>
+        <category>Top Channels</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>videotecaproject</id>
+    <name>VideotecaProject</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/videotecaproject.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>39</version>
+    <adult>false</adult>
+    <date>06/01/2019</date>
+    <changes>Update and Temporary Fix</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>Top Channels</category>
+    </categories>
+</channel>
+    
+<channel>
+    <id>youtube</id>
+    <name>Ricerca su Youtube</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/youtube.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>6</version>
+    <adult>false</adult>
+    <date>05/02/2017</date>
+    <changes>Partial Fix</changes>
+    <categories>
+        <category>movie</category>
+        <category>anime</category>
+        <category>documentaries</category>
+        <category>series</category>		
+    </categories>
+</channel>
+
+
+	
+<channel>
+    <id>altadefinizione01</id>
+    <name>AltaDefinizione01</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/altadefinizione01.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>29</version>
+    <adult>false</adult>
+    <date>06/04/2018</date>
+    <changes>update</changes>
+    <categories>
+        <category>movie</category>
+        <category>vos</category>
+    </categories>
+</channel>
+	
+<channel>
+    <id>altadefinizione_press</id>
+    <name>Altadefinizione_press</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/altadefinizione_press.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>06</version>
+    <adult>false</adult>
+    <date>08/07/2018</date>
+    <changes>Disabled</changes>
+    <categories>
+        <category>movie</category>
+        <category>vos</category>
+    </categories>
+</channel>
+	
+<channel>
+    <id>altadefinizione01love</id>
+    <name>AltaDefinizione01love</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/altadefinizione01love.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>4</version>
+    <adult>false</adult>
+    <date>11/04/2018</date>
+    <changes>Update</changes>
+    <categories>
+        <category>movie</category>
+        <category>vos</category>
+    </categories>
+</channel>
+	
+<channel>
+    <id>altadefinizioneclick</id>
+    <name>Altadefinizione.click</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/altadefinizioneclick.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>29</version>
+    <adult>false</adult>
+    <date>11/04/2018</date>
+    <changes>Update</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+        <category>vos</category>
+    </categories>
+</channel>
+	
+<channel>
+    <id>altadefinizionehd</id>
+    <name>AltadefinizioneHD</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/altadefinizionehd.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>3</version>
+    <adult>false</adult>
+    <date>06/04/2018</date>
+    <changes>Disabled</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>altadefinizioneclub</id>
+    <name>Altadefinizione.club</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/altadefinizioneclub.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>09</version>
+    <adult>false</adult>
+    <date>11/04/2018</date>
+    <changes>Update</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+        <category>vos</category>
+    </categories>
+</channel>
+	
+<channel>
+    <id>altadefinizioneone</id>
+    <name>Altadefinizione.one</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/altadefinizioneone.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>7</version>
+    <adult>false</adult>
+    <date>11/04/2018</date>
+    <changes>Update</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>altadefinizione01_wiki</id>
+    <name>altadefinizione01_wiki</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/altadefinizione01_wiki.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>02</version>
+    <adult>false</adult>
+    <date>29/08/2018</date>
+    <changes>Disabled</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>altadefinizionezone</id>
+    <name>AltadefinizioneZone</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/altadefinizionezone.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>7</version>
+    <adult>false</adult>
+    <date>06/04/2018</date>
+    <changes>Update</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>altastreaming</id>
+    <name>AltaStreaming</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/altastreaming.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>15</version>
+    <adult>false</adult>
+    <date>06/04/2018</date>
+    <changes>Temporary Fix and Update</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+	
+<channel>
+    <id>animestream</id>
+    <name>Animestream.it</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/animestream.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>6</version>
+    <adult>false</adult>
+    <date>04/07/2017</date>
+    <changes>Update</changes>
+    <categories>
+        <category>anime</category>
+    </categories>
+</channel>
+	
+<channel>
+    <id>animeinstreaming</id>
+    <name>AnimeInStreaming</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/animeinstreaming.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>4</version>
+    <adult>false</adult>
+    <date>11/04/2018</date>
+    <changes>Update</changes>
+    <categories>
+        <category>anime</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>animetubeita</id>
+    <name>AnimeTubeIta.com</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/animetubeita.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>5</version>
+    <adult>false</adult>
+    <date>20/10/2016</date>
+    <changes>new anime channel by Costaplus</changes>
+    <categories>
+        <category>anime</category>
+    </categories>
+</channel>
+	
+<channel>
+    <id>asiansubita</id>
+    <name>Asian Sub-Ita</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/asiansubita.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>10</version>
+    <adult>false</adult>
+    <date>11/04/2018</date>
+    <changes>Update</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>vos</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>bleachanimemanga</id>
+    <name>BleachAnimeManga</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/bleachanimemanga.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>3</version>
+    <adult>false</adult>
+    <date>11/04/2018</date>
+    <changes>Disabled</changes>
+    <categories>
+        <category>anime</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>cineblogfm</id>
+    <name>CineBlog01.FM</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/cineblogfm.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>07</version>
+    <adult>false</adult>
+    <date>14/09/2018</date>
+    <changes>Update and Fix</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+        <category>vos</category>
+    </categories>
+</channel>
+	<channel>
+    <id>cineblog01_show</id>
+    <name>cineblog01_show</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/cineblog01_show.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>01</version>
+    <adult>false</adult>
+    <date>11/04/2018</date>
+    <changes>First Release</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>cb01_wiki</id>
+    <name>cb01_wiki</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/cb01_wiki.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>01</version>
+    <adult>false</adult>
+    <date>11/04/2018</date>
+    <changes>First Release</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+	
+<channel>
+    <id>cinemastreaming</id>
+    <name>Cinemastreaming.net</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/cinemastreaming.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>6</version>
+    <adult>false</adult>
+    <date>24/02/2017</date>
+    <changes>Update - Partial Fix</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>cinemasubito</id>
+    <name>Cinemasubito</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/cinemasubito.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>6</version>
+    <adult>false</adult>
+    <date>11/04/2018</date>
+    <changes>Update</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>vos</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>cinesuggestions</id>
+    <name>CineSuggestions</name>
+    <language>it</language>
+    <update_url>hhttps://raw.githubusercontent.com/its07/ch/master/sit/cinesuggestions.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>2</version>
+    <adult>false</adult>
+    <date>06/04/2018</date>
+    <changes>Update and Fix</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>corsaronero</id>
+    <name>Corsaronero</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/corsaronero.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>9</version>
+    <adult>false</adult>
+    <date>06/04/2018</date>
+    <changes>Update</changes>
+    <categories>
+        <category>movie</category>
+        <category>torrent</category>
+    </categories>
+</channel>
+	
+<channel>
+    <id>chimerarevo</id>
+    <name>Chimerarevo</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/chimerarevo.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>03</version>
+    <adult>false</adult>
+    <date>24/02/2017</date>
+    <changes>Update</changes>
+    <categories>
+        <category>Documentaries</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>darkstream</id>
+    <name>Darkstream</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/darkstream.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>15</version>
+    <adult>false</adult>
+    <date>06/04/2018</date>
+    <changes>Update</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+    </categories>
+</channel>
+	
+<channel>
+    <id>documentaristreaming</id>
+    <name>DocumentariStreaming</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/documentaristreaming.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>15</version>
+    <adult>false</adult>
+    <date>16/04/2017</date>
+    <changes>Disabled</changes>
+    <categories>
+        <category>Documentaries</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>documentaristreamingdb</id>
+    <name>Documentari Streaming DB</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/documentaristreamingdb.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>09</version>
+    <adult>false</adult>
+    <date>01/11/2018</date>
+    <changes>Disabled</changes>
+    <categories>
+        <category>Documentaries</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>eurostreaming</id>
+    <name>Eurostreaming</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/eurostreaming.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>17</version>
+    <adult>false</adult>
+    <date>06/04/2018</date>
+    <changes>Update and Fix</changes>
+    <categories>
+        <category>serie</category>
+        <category>anime</category>
+    </categories>
+</channel>
+	
+<channel>
+    <id>eurostreaminginfo</id>
+    <name>Eurostreaminginfo</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/eurostreaminginfo.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>8</version>
+    <adult>false</adult>
+    <date>24/02/2017</date>
+    <changes>Update</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>ffilms</id>
+    <name>FFilms</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/ffilms.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>03</version>
+    <adult>true</adult>
+    <date>08/05/2018</date>
+    <changes>Update</changes>
+	<categories>
+	       <category>movie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>filmbelli</id>
+    <name>Filmbelli.net</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/filmbelli.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>4</version>
+    <adult>false</adult>
+    <date>06/04/2018</date>
+    <changes>Update</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>filmhd</id>
+    <name>filmhd</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/filmhd.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>4</version>
+    <adult>false</adult>
+    <date>16/04/2018</date>
+    <changes>Temporary Disabled - Update</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>filmhdstreaming</id>
+    <name>Filmhdstreaming</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/filmhdstreaming.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>06</version>
+    <adult>false</adult>
+    <date>19/09/2018</date>
+    <changes>Disabled</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>   
+
+<channel>
+    <id>filmissimi</id>
+    <name>Filmissimi</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/filmissimi.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>4</version>
+    <adult>false</adult>
+    <date>06/04/2018</date>
+    <changes>Temporary Disabled</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>filmserietv</id>
+    <name>filmserietv</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/filmserietv.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>03</version>
+    <adult>false</adult>
+    <date>03/07/2018</date>
+    <changes>disabled</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>filmstream</id>
+    <name>FilmStream.org</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/filmstream.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>21</version>
+    <adult>false</adult>
+    <date>04/07/2017</date>
+    <changes>enabled</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>filmstream_biz</id>
+    <name>filmstream_biz</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/filmstream_biz.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>04</version>
+    <adult>false</adult>
+    <date>26/06/2017</date>
+    <changes>Enabled - update and Fix</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>filmstreampw</id>
+    <name>FilmStream.to</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/filmstreampw.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>19</version>
+    <adult>false</adult>
+    <date>06/04/2018</date>
+    <changes>Disabled</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>filmstreamingzone</id>
+    <name>FilmStreamingZone</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/filmstreamingzone.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>02</version>
+    <adult>false</adult>
+    <date>06/04/2018</date>
+    <changes>Disabled</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+    </categories>
+</channel>    
+
+
+<channel>
+    <id>filmsubitotv</id>
+    <name>FilmSubito</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/filmsubitotv.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>16</version>
+    <adult>false</adult>
+    <date>06/04/2018</date>
+    <changes>Disabled</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+        <category>documentaries</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>filmzstreaming</id>
+    <name>FilmZStreaming</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/filmzstreaming.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>05</version>
+    <adult>false</adult>
+    <date>21/12/2018</date>
+    <changes>Temporary Disabled - delete host</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>guardaserie_stream</id>
+    <name>GuardaSerie_stream</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/guardaserie_stream.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>03</version>
+    <adult>false</adult>
+    <date>13/10/2018</date>
+    <changes>Update</changes>
+    <categories>
+        <category>serie</category>
+        <category>movie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>guardaserieonline</id>
+    <name>Guardaserie.online</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/guardaserieonline.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>8</version>
+    <adult>false</adult>
+    <date>13/04/2018</date>
+    <changes>Temporary Fix</changes>
+    <categories>
+        <category>Top Channel</category>
+        <category>serie</category>
+        <category>anime</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>guardaserie</id>
+    <name>Guardaserie</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/guardaserie.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>19</version>
+    <adult>false</adult>
+    <date>06/04/2018</date>
+    <changes>Disabled</changes>
+    <categories>
+        <category>serie</category>
+        <category>anime</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>hdgratis</id>
+    <name>HDGratis</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/hdgratis.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>18</version>
+    <adult>false</adult>
+    <date>11/04/2018</date>
+    <changes>Fix Host</changes>
+    <categories>
+        <category>movie</category>
+        <category>anime</category>
+        <category>vos</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>hdstreamingit</id>
+    <name>hdstreamingit</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/hdstreamingit.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>17</version>
+    <adult>false</adult>
+    <date>24/02/2017</date>
+    <changes>Disabled</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>hokutonoken</id>
+    <name>Hokuto no Ken</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/hokutonoken.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>3</version>
+    <adult>false</adult>
+    <date>06/04/2018</date>
+    <changes>Disabled</changes>
+    <categories>
+        <category>serie</category>
+        <category>anime</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>istreaming</id>
+    <name>Istreaming</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/istreaming.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>7</version>
+    <adult>false</adult>
+    <date>11/04/2018</date>
+    <changes>Update</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>    
+    
+<channel>
+    <id>itafilmtv</id>
+    <name>ItaFilm.t</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/itafilmtv.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>17</version>
+    <adult>false</adult>
+    <date>05/03/2017</date>
+    <changes>Partial Fix</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+        <category>Documentaries</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>italiafilm01</id>
+    <name>ItaliaFilm01</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/italiafilm01.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>02</version>
+    <adult>false</adult>
+    <date>11/04/2018</date>
+    <changes>Update</changes>
+    <categories>
+        <category>movie</category>
+        <category>anime</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>italianstream</id>
+    <name>Italian-Stream</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/italianstream.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>12</version>
+    <adult>false</adult>
+    <date>24/02/2017</date>
+    <changes>Disabled</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>vos</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>italiaserie</id>
+    <name>Italia Serie</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/italiaserie.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>17</version>
+    <adult>false</adult>
+    <date>06/04/2018</date>
+    <changes>Update Host</changes>
+    <categories>
+        <category>serie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>italiaserienews</id>
+    <name>italiaserienews</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/italiaserienews.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>7</version>
+    <adult>false</adult>
+    <date>06/04/2018</date>
+    <changes>Disabled</changes>
+    <categories>
+        <category>serie</category>
+    </categories>	
+</channel>
+	
+<channel>
+    <id>itflix_stream</id>
+    <name>itflix_stream</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/itflix_stream.py</update_url>
+    <active>false</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>05</version>
+    <adult>false</adult>
+    <date>03/07/2018</date>
+    <changes>disabled</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>liberoita</id>
+    <name>LiberoITA</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/liberoita.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>20</version>
+    <adult>false</adult>
+    <date>11/04/2018</date>
+    <changes>Update</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>leserietv</id>
+    <name>Leserietv</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/leserietv.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>12</version>
+    <adult>false</adult>
+    <date>23/04/2018</date>
+    <changes>Temporary Disabled</changes>
+    <categories>
+        <category>serie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>linkstreaming</id>
+    <name>LinkStreaming</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/linkstreaming.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>06</version>
+    <adult>false</adult>
+    <date>29/08/2018</date>
+    <changes>Temporary Disabled</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>top channel</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>megafiletube</id>
+    <name>Megafiletube</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/megafiletube.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>4</version>
+    <adult>false</adult>
+    <date>06/04/2018</date>
+    <changes>Disabled</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>megavideo_one</id>
+    <name>megavideo_one</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/megavideo_one.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>04</version>
+    <adult>false</adult>
+    <date>23/10/2018</date>
+    <changes>disabled</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel> 
+
+<channel>
+    <id>misterstreaming</id>
+    <name>Misterstreaming</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/misterstreaming.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>4</version>
+    <adult>false</adult>
+    <date>06/04/2018</date>
+    <changes>Disabled</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>mondolunatico</id>
+    <name>MondoLunatico</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/mondolunatico.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>18</version>
+    <adult>false</adult>
+    <date>22/11/2017</date>
+    <changes>Update</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>mondolunatico_new</id>
+    <name>Mondo Lunatico New</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/mondolunatico_new.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>08</version>
+    <adult>false</adult>
+    <date>22/11/2018</date>
+    <changes>Update and Partial Fix</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>netflixsrc</id>
+    <name>netflixsrc</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/netflixsrc.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>04</version>
+    <adult>false</adult>
+    <date>15/05/2017</date>
+    <changes>Update</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>naruto</id>
+    <name>Naruto</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/naruto.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>02</version>
+    <adult>false</adult>
+    <date>04/06/2018</date>
+    <changes>Disabled</changes>
+    <categories>
+        <category>anime</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>pastebin</id>
+    <name>Pastebin</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/pastebin.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>3</version>
+    <adult>false</adult>
+    <date>06/04/2018</date>
+    <changes>Disabled</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+        <category>vos</category>
+        <category>User</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>pianetastreaming</id>
+    <name>Pianeta Streaming</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/pianetastreaming.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>10</version>
+    <adult>false</adult>
+    <date>06/04/2018</date>
+    <changes>Disabled</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>playcinema</id>
+    <name>Playcinema.org</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/playcinema.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>11</version>
+    <adult>false</adult>
+    <date>24/02/2017</date>
+    <changes>Disable</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>portalehd</id>
+    <name>PortaleHD</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/portalehd.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>19</version>
+    <adult>false</adult>
+    <date>24/02/2017</date>
+    <changes>Disable</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>programmazione</id>
+    <name>Corsi Programmazione</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/programmazione.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>5</version>
+    <adult>false</adult>
+    <date>11/04/2018</date>
+    <changes>Update programmazione</changes>
+    <categories>
+        <category>Didattica</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>pyaes</id>
+    <name>pyaes</name>
+    <language>es</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/channels/pyaes.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>1</version>
+    <adult>false</adult>
+    <date>24/02/2017</date>
+    <changes>Fix For Channel "ilmperevolvere"</changes>
+</channel>  
+
+<channel>
+    <id>sabwap</id>
+    <name>SabWap</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/sabwap.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>1</version>
+    <adult>false</adult>
+    <date>27/02/2017</date>
+    <changes>First Release</changes>
+    <categories>
+        <category>Movie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>saintseiya</id>
+    <name>Saint Seiya</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/saintseiya.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>5</version>
+    <adult>false</adult>
+    <date>06/04/2018</date>
+    <changes>Disabled/changes>
+    <categories>
+        <category>anime</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>scambioetico</id>
+    <name>Scambioetico</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/scambioetico.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>14</version>
+    <adult>false</adult>
+    <date>24/02/2017</date>
+    <changes>Disabled</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>scambiofile</id>
+    <name>Scambiofile</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/scambiofile.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>5</version>
+    <adult>false</adult>
+    <date>06/04/2018</date>
+    <changes>Disabled</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>serietvhd_stream</id>
+    <name>serietvhd_stream</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/serietvhd_stream.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>02</version>
+    <adult>false</adult>
+    <date>03/07/2018</date>
+    <changes>disabled</changes>
+    <categories>
+        <category>serie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>solostreaming</id>
+    <name>Solo-Streaming</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/solostreaming.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>12</version>
+    <adult>false</adult>
+    <date>06/04/2018</date>
+    <changes>Disabled</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+        <category>documentaries</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>soloserie</id>
+    <name>soloserie</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/soloserie.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>8</version>
+    <adult>false</adult>
+    <date>06/04/2018</date>
+    <changes>update</changes>
+    <categories>
+        <category>serie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>southparkita</id>
+    <name>SouthParkITA Streaming</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/southparkita.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>4</version>
+    <adult>false</adult>
+    <date>24/02/2017</date>
+    <changes>Disabled</changes>
+    <categories>
+        <category>serie</category>
+        <category>anime</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>streamblog</id>
+    <name>StreamBlog</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/streamblog.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>10</version>
+    <adult>false</adult>
+    <date>06/04/2018</date>
+    <changes>Disabled from channelslist</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>streaming01</id>
+    <name>Streaming01</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/streaming01.py</update_url>
+    <active>false</active>
+    <include_in_global_search>False</include_in_global_search>
+    <version>11</version>
+    <adult>false</adult>
+    <date>24/02/2017</date>
+    <changes>disable</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>streamingitaliano</id>
+    <name>StreamingItaliano</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/streamingitaliano.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>02</version>
+    <adult>false</adult>
+    <date>06/04/2018</date>
+    <changes>Disabled from channelslist</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>streaminglove</id>
+    <name>StreamingLove</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/streaminglove.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>7</version>
+    <adult>false</adult>
+    <date>25/01/2018</date>
+    <changes>Disabled</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>    
+
+<channel>
+    <id>streamingpopcorn</id>
+    <name>StreamingPopcorn</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/streamingpopcorn.py</update_url>
+    <active>false</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>9</version>
+    <adult>false</adult>
+    <date>30/03/2017</date>
+    <changes>Disabled</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>subzero</id>
+    <name>SubZero</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/subzero.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>2</version>
+    <adult>false</adult>
+    <date>05/03/2017</date>
+    <changes>disable</changes>
+    <categories>
+        <category>torrent</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>strfilm</id>
+    <name>Strfilm</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/strfilm.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>8</version>
+    <adult>false</adult>
+    <date>24/02/2017</date>
+    <changes>Disable</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>thelordofstreaming</id>
+    <name>thelordofstreaming</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/thelordofstreaming.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>12</version>
+    <adult>false</adult>
+    <date>21/12/2018</date>
+    <changes>Update and Temporary Disabled</changes>
+    <categories>
+        <category>Top Channels</category>
+        <category>movie</category>
+        <category>serie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>tenentecolombo</id>
+    <name>tenentecolombo</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/tenentecolombo.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>6</version>
+    <adult>false</adult>
+    <date>24/02/2017</date>
+    <changes>Disabled</changes>
+    <categories>
+        <category>Serie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>toonitalia</id>
+    <name>toonitalia</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/toonitalia.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>12</version>
+    <adult>false</adult>
+    <date>24/02/2017</date>
+    <changes>Disable</changes>
+    <categories>
+        <category>anime</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>umsfunsub</id>
+    <name>UMSFunSub</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/umsfunsub.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>1</version>
+    <adult>false</adult>
+    <date>27/02/2017</date>
+    <changes>Disable</changes>
+    <categories>
+        <category>anime</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>vediserie</id>
+    <name>VediSerie</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/vediserie.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>16</version>
+    <adult>false</adult>
+    <date>29/08/2018</date>
+    <changes>Temporary Disabled</changes>
+    <categories>
+        <category>serie</category>
+        <category>Top Channels</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>vedovedo</id>
+    <name>VedoVedo</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/vedovedo.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>06</version>
+    <adult>false</adult>
+    <date>28/11/2017</date>
+    <changes>Update and Temporary Fix</changes>
+    <categories>
+        <category>serie</category>
+        <category>Top Channels</category>
+    </categories>
+</channel>
+	
+<channel>
+    <id>videotecadiclasse</id>
+    <name>VideotecaDiClasse</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/videotecadiclasse.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>02</version>
+    <adult>false</adult>
+    <date>25/02/2017</date>
+    <changes>Fix Host</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>wstreaming</id>
+    <name>Wstreaminge</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/its07/ch/master/sit/wstreaming.py</update_url>
+    <active>false</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>02</version>
+    <adult>false</adult>
+    <date>06/04/2018</date>
+    <changes>Disabled from channelslist</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+	
+</channels>
